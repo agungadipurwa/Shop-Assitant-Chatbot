@@ -1,7 +1,7 @@
 python-dotenv
 psycopg2
 pandas
-pinecone
+pinecone-client
 langchain-google-genai
 ipywidgets
 langchain-pinecone
